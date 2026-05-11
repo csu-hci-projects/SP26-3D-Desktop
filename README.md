@@ -1,6 +1,6 @@
 # NodeDesk VR
 Joshua Weihe
-
+3 Min Video: https://youtu.be/i3NdysBbQxY 
 A spatially organized Focus View navigation system in a VR desktop environment for traversing interconnected information networks.
 
 ---
