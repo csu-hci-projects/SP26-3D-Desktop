@@ -1,4 +1,5 @@
 # NodeDesk VR
+#Joshua Weihe
 
 A spatially organized Focus View navigation system in a VR desktop environment for traversing interconnected information networks.
 
