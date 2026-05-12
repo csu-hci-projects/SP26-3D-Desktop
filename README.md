@@ -1,6 +1,8 @@
 # NodeDesk VR
 Joshua Weihe
 
+GitHub Site: https://github.com/csu-hci-projects/SP26-3D-Desktop/blob/main/README.md
+
 3 Min Video: https://youtu.be/i3NdysBbQxY 
 
 Presentation Video: https://youtu.be/ZvErjKgi4h0
