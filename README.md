@@ -226,48 +226,6 @@ Potential future improvements include:
 - Mini-map visualization
 - Mixed reality integration
 
----
-
-# Media
-
-Replace this section with:
-- gameplay screenshots
-- traversal GIFs
-- study photos
-- demo videos
-
-Example:
-
-Media/
-    screenshots/
-    demo_video.mp4
-    traversal_demo.gif
-
----
-
-# Research Paper
-
-The complete ACM-format research paper is included in:
-
-Research/final_report.tex
-
-Bibliography file:
-
-Research/references.bib
-
-Compiled PDF:
-
-Research/final_report.pdf
-
----
-
-# Citation
-
-[INSERT FINAL CITATION]
-
----
-
-# Acknowledgements
 
 Colorado State University  
 CS 465 – 3D Multimodal Human Computer Interaction
